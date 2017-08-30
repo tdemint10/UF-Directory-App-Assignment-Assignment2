@@ -1,0 +1,12 @@
+#searchBar {
+  margin: 15px 10px;
+}
+
+.tableWrapper {
+  max-height: 600px;
+  overflow: auto;
+}
+
+.btn-primary {
+	width: 100%;
+}
